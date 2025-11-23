@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/32a69fc9-9522-48a9-88e0-77affcb09d9b" /># rehnuma-rashid-vidyarthi-project
+
 Statement Analyzer  A versatile Python program designed to analyze text, categorize statements, and extract key insights. Project Description The Statement Analyzer is a robust text processing tool developed in Python. 
 Sentiment Analysis Using TextBlob -
  Overview of the Project
